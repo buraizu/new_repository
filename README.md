@@ -1,1 +1,2 @@
-Some new text
+This is my README file.
+Some new text.
